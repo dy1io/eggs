@@ -4,13 +4,13 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2023-07-11T16:56:21+00:00",
+    "exported_at": "2023-07-11T17:13:26+00:00",
     "name": "Arma 3 Custom",
     "author": "admin@badwolves.games",
     "description": null,
     "features": null,
     "docker_images": {
-        "ghcr.io\/bad-wolves\/games:arma3": "ghcr.io\/bad-wolves\/games:arma3"
+        "ghcr.io\/dy1io\/games:arma3": "ghcr.io\/dy1io\/games:arma3"
     },
     "file_denylist": [],
     "startup": ".",
